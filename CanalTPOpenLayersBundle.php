@@ -1,9 +1,9 @@
 <?php
 
-namespace CanalTP\OpenLayersBundle;
+namespace CanalTP\OpenLayersMapBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class CanalTPOpenLayersBundle extends Bundle
+class CanalTPOpenLayersMapBundle extends Bundle
 {
 }
