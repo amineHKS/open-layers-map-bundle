@@ -1,5 +1,5 @@
 {
-  "name": "canaltp/openlayers-bundle",
+  "name": "canaltp/open-layers-map-bundle",
   "type": "library",
   "description": "Canal TP Map Bundle",
   "license": "proprietary",
@@ -10,6 +10,6 @@
     }
   ],
   "autoload": {
-    "psr-4": { "CanalTP\\OpenLayersBundle\\": "" }
+    "psr-4": { "CanalTP\\OpenLayersMapBundle\\": "" }
   }
 }
