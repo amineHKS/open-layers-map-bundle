@@ -1,0 +1,15 @@
+{
+  "name": "canaltp/openlayers-bundle",
+  "type": "library",
+  "description": "Canal TP Map Bundle",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Amine Hafs",
+      "email": "amine.hafs@canaltp.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "CanalTP\\OpenLayersBundle\\": "" }
+  }
+}
