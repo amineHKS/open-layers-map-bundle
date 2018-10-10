@@ -12,4 +12,9 @@
   "autoload": {
     "psr-4": { "CanalTP\\OpenLayersMapBundle\\": "" }
   }
+  "minimum-stability": "dev",
+    "prefer-stable" : true,
+    "extra": {
+      "branch-alias": null
+    }
 }
